@@ -1,2 +1,2 @@
 # LogsPlugin
- 
+Plugin pour voir les actions des joueurs, bloc ...
