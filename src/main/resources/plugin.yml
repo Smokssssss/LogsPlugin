@@ -1,0 +1,5 @@
+name: LogsPlugin
+version: 1.0
+main: com.example.logsplugin.LogsPlugin
+api-version: 1.18
+description: Un plugin pour enregistrer les actions des joueurs.
